@@ -1,3 +1,7 @@
+# Personal changes repo for openHASP firmware
+
+Mostly testing and tweaking
+
 # openHASP firmware
 
 [![GitHub Workflow Status]( https://img.shields.io/github/actions/workflow/status/HASwitchPlate/openHASP/build.yaml?branch=master&label=build%20status&logo=github&logoColor=%23dddddd)](https://github.com/HASwitchPlate/openHASP/actions)
